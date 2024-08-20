@@ -1,23 +1,22 @@
 An expanding collection of easily adaptable **Aiogram** templates for building Telegram bots.
 
-<br>
 
-# Features
+### Features
 - Easily extensible and maintainable code
 - Simple and clean architecture
 - **RedisStorage** caching for retaining message history
 - Ready-to-use **Alembic** migration system
 - Modern DB engine
 
-### Template 1
+#### Template 1
 - Design UIs easily with **Aiogram Dialog**
-### Template 2
+#### Template 2
 - Localization with **Project Fluent**
 - Enviroment configuration with **Poetry**
 
 <br>
   
-# Dependencies
+## Dependencies
 - [Python 3.x](https://www.python.org/downloads/)
 - [Aiogram 3.x](https://github.com/aiogram/aiogram)
 - [Aiogram Dialog 2](https://github.com/Tishka17/aiogram_dialog)
@@ -32,7 +31,7 @@ An expanding collection of easily adaptable **Aiogram** templates for building T
 
 <br>
 
-# Setup & usage
+## Setup & usage
 ### [Template 1](https://github.com/avrtt/tg-bot-boilerplates/tree/main/template-1)
 
 Clone the repository and navigate to the template folder:
@@ -115,7 +114,7 @@ Write new translations in `.ftl` (`translations/TRANSLATION_LOCALE`) and restart
 
 <br>
 
-# License
+## License
 This templates are licensed under the MIT License - see the LICENSE file for details.
 
 
