@@ -34,7 +34,7 @@ An expanding collection of easily adaptable **Aiogram** templates for building T
 ## Setup & usage
 ### [Template 1](https://github.com/avrtt/tg-bot-boilerplates/tree/main/template-1)
 
-Clone the repository and navigate to the template folder:
+Clone the repository and navigate to the **template-1** folder:
 ```bash
 git clone git@github.com:avrtt/tg-bot-boilerplates.git
 cd tg-bot-boilerplates/template-1
@@ -78,7 +78,7 @@ docker-compose down -v
 
 ### [Template 2](https://github.com/avrtt/tg-bot-boilerplates/tree/main/template-2)
 
-Rename `docker-compose.example.yml` to `docker-compose.yml` and `.env.dist` to `.env`. Configure `.env` in the same way.
+Navigate to the **template-2** folder instead. Rename `docker-compose.example.yml` to `docker-compose.yml` and `.env.dist` to `.env`. Configure `.env` in the same way.
 
 Build:
 ```shell
