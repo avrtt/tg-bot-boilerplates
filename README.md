@@ -1,4 +1,4 @@
-An expanding collection of easily adaptable **Aiogram** templates for building Telegram bots
+An expanding collection of easily adaptable **Aiogram** templates for building Telegram bots.
 
 <br>
 
